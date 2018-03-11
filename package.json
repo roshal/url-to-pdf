@@ -1,0 +1,15 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "~": "nps"
+  },
+  "engines": {
+    "node": "^9.5.0",
+    "yarn": "^1.3.2"
+  },
+  "dependencies": {
+    "nps": "^5.8.2",
+    "puppeteer": "^1.1.1",
+    "sanitize-filename": "^1.6.1"
+  }
+}

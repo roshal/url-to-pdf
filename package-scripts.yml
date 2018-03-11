@@ -1,0 +1,5 @@
+scripts:
+ #
+ clean-output: rm -fr output/*
+ #
+ start: node source/main.js

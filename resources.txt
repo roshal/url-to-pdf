@@ -1,0 +1,7 @@
+https://ifmo.su/ci
+https://ifmo.su/go-tutorial
+https://ifmo.su/go-web-server
+https://ifmo.su/js-modules
+https://ifmo.su/jwt
+https://ifmo.su/redis
+https://ifmo.su/webpack4
