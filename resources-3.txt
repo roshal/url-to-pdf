@@ -1,0 +1,14 @@
+http://prgssr.ru/development/pogruzhenie-v-react-kontejnery.html
+http://prgssr.ru/development/pogruzhenie-v-react-redux.html
+http://prgssr.ru/development/pogruzhenie-v-react-router.html
+http://prgssr.ru/development/rabota-s-redux-vvedenie.html
+https://getinstance.info/articles/react/learning-react-container-components/
+https://getinstance.info/articles/react/learning-react-redux/
+https://getinstance.info/articles/react/learning-react-router/
+https://habrahabr.ru/company/nixsolutions/blog/324748/
+https://habrahabr.ru/post/269303/
+https://habrahabr.ru/post/269831/
+https://habrahabr.ru/post/309422/
+https://habrahabr.ru/post/332032/
+https://iamakulov.com/talks/redux-in-real-life/
+https://medium.com/@kanby/%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%BF%D1%80%D0%BE-react-%D0%BD%D0%B0-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-3bc1f4e021f4
